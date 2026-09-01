@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UIElements;
 
 // OOPWall aka "Demon Wall"
-public class OOPWall : MonoBehaviour
+public class OOPWall : Identity
 {
     public string Name;
     public int positionX;
