@@ -573,6 +573,9 @@ namespace Assignment
         #endregion
     }
 
+    internal class Armor
+    {
+    }
 
     public class TestUtils
     {

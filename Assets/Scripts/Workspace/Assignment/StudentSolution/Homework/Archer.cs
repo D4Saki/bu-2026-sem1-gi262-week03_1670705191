@@ -4,6 +4,6 @@ namespace Assignment.StudentSolution
 {
     public class Archer
     {
-
+        
     }
 }
